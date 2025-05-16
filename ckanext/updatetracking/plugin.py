@@ -1,5 +1,4 @@
 import ckan.plugins as plugins
-import ckan.plugins.toolkit as toolkit
 from ckanext.updatetracking.commands import update_tracking
 
 class UpdatetrackingPlugin(plugins.SingletonPlugin):
